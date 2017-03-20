@@ -1,18 +1,8 @@
 # Summary
 
 * [生涯咨询与辅导读书笔记](README.md)
-* [第一章](di-yi-zhang.md)
-* 第二章
-* 第三章
-* 第四章
-* 第五章
-* 第六章
-* 第七章
-* 第八章
-* 第九章
-* 第十章
-* 第十一章
-* 第十二章
-* 第十三章
-* 第十四章
+* [第十二章](di-shi-er-zhang.md)
+  * [第一节](di-shi-er-zhang/di-shi-er-zhang-di-yi-jie.md)
+  * [第二节](di-shi-er-zhang/di-er-jie.md)
+  * [第三节](di-shi-er-zhang/di-san-jie.md)
 
