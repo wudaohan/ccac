@@ -6,6 +6,8 @@
   * [第一节 理论缘起](di-san-zhang-huo-lan-de-de-lei-xing-lun/di-yi-jie.md)
   * [第二节 基本概念](di-san-zhang-huo-lan-de-de-lei-xing-lun/di-yi-jie/di-er-jie-ji-ben-gai-nian.md)
   * [第三节 理论的应用](di-san-zhang-huo-lan-de-de-lei-xing-lun/di-san-jie-li-lun-de-ying-yong.md)
+* [第四章 生涯发展理论](di-si-zhang-sheng-ya-fa-zhan-li-lun.md)
+  * [第一节 基本概念](di-si-zhang-sheng-ya-fa-zhan-li-lun/di-yi-jie-ji-ben-gai-nian.md)
 * [第十二章 职业组合卡的应用](di-shi-er-zhang.md)
   * [第一节 组合卡的发展背景与价值](di-shi-er-zhang/di-shi-er-zhang-di-yi-jie.md)
   * [第二节 组合卡的种类](di-shi-er-zhang/di-er-jie.md)
