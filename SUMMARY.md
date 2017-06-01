@@ -2,6 +2,7 @@
 
 * [生涯咨询与辅导读书笔记](README.md)
 * [序言](xu-yan.md)
+* [第一章 生涯辅导的基本概念](di-yi-zhang.md)
 * [第三章 霍兰德的类型论](di-san-zhang-huo-lan-de-de-lei-xing-lun.md)
   * [第一节 理论缘起](di-san-zhang-huo-lan-de-de-lei-xing-lun/di-yi-jie.md)
   * [第二节 基本概念](di-san-zhang-huo-lan-de-de-lei-xing-lun/di-yi-jie/di-er-jie-ji-ben-gai-nian.md)
